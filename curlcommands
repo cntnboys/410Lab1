@@ -1,0 +1,5 @@
+curl http://slashdot.org > slashdot.html
+
+curl --request DELETE 'http://slashdot.org/' > slashdot2.html
+
+
